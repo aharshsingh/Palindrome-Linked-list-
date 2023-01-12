@@ -1,3 +1,2 @@
 # Palindrome-Linked-list-
-
-[New Text Document (2).txt](https://github.com/aharshsingh/Palindrome-Linked-list-/files/10406267/New.Text.Document.2.txt)
+Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
